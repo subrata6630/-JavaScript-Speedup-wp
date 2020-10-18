@@ -4,8 +4,8 @@ Async JavaScript speed up 90% for any WordPress website
 
 
 
-https://wordpress.org/plugins/async-javascript/
-– Async JavaScript > Wizard
+https://wordpress.org/plugins/async-javascript/  -- hit &lt;Enter&gt;
+– Async JavaScript > Wizard   -- hit &lt;Enter&gt;
 – enable – async js
 – Go https://gtmetrix.com/api/
 – Login gtmetrix -> get api and using – user name and api – it will give you a test score.
